@@ -31,7 +31,7 @@ def encode_text(text):
 # ---------------------------
 # 💻 Streamlit App UI
 # ---------------------------
-st.set_page_config(page_title="Sentiment Analysis App", page_icon="💬")
+st.set_page_config(page_title="Sentiment Analysis", page_icon="💬")
 st.title("🎭 Sentiment Analysis App")
 st.write("This app uses an LSTM model trained on IMDb data to predict whether a text is **Positive** or **Negative**.")
 
