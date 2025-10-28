@@ -64,4 +64,4 @@ if st.button("Analyze Sentiment"):
 # 🖤 Footer
 # ---------------------------
 st.markdown("---")
-st.markdown("developed By Vinay G")
+st.markdown("")
